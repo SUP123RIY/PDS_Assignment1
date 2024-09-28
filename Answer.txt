@@ -1,0 +1,15 @@
+Box Plot (Gender vs Percentage):
+
+Compares percentage distributions across genders, highlighting medians, variability, and outliers.
+Bar Plot (Lunch Distribution):
+
+Shows the frequency of lunch types, making it easy to compare which is more common.
+Scatter Plot (Math vs Writing Scores):
+
+Reveals the relationship or correlation between math and writing scores.
+Hexbin Plot (Percentage vs Reading Score):
+
+Visualizes data density and trends between percentage and reading score.
+FacetGrid Scatterplot (Gender vs Reading Score):
+
+Compares the relationship between percentage and reading score for each gender separately.
